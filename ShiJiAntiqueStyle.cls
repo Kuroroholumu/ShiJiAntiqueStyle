@@ -97,6 +97,7 @@
 \everygezhu={\notefont\gezhufont}
 \setgezhuraise{-.315\jlreq@jafontsize}
 \beforegezhu={\nobreak}
+\aftergezhu={\kern-1\zw}
 %
 \definecolor{shuiro}{cmyk}{0.00,0.85,1.00,0.00} % 朱色
 %
