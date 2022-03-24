@@ -12,7 +12,7 @@
 
 ## 排版 ShiJiAntiqueStyle
 
-基於 $\text{up}\LaTeX$ 與 [jlreq](https://github.com/abenori/jlreq) 提供的功能將文本清樣進行仿古風格的中文直排。通過 JFM 設定實現了行間句讀符號。利用[gezhu](https://github.com/yang-le/gezhu)實現了割注，這個宏包似乎比jlreq内附的warichu功能更為適應仿古排版。仿武英殿二十四史本，利用[TikZ](https://github.com/pgf-tikz/pgf)繪製了欄綫（水印）。
+基於upTeX與[jlreq](https://github.com/abenori/jlreq)提供的功能將文本清樣進行仿古風格的中文直排。通過 JFM 設定實現了行間句讀符號。利用[gezhu](https://github.com/yang-le/gezhu)實現了割注，這個宏包似乎比jlreq内附的warichu功能更為適應仿古排版。仿武英殿二十四史本，利用[TikZ](https://github.com/pgf-tikz/pgf)繪製了欄綫。
 
 正文字體使用了[FontForge](https://github.com/fontforge/fontforge)魔改的[源流明體](https://github.com/ButTaiwan/genryu-font)。包括縮放字形、長體的製作、繪製特殊記號等等。
 
